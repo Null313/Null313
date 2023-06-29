@@ -12,4 +12,3 @@ react tailwind dev with git skills 💀
 - Solidjs:  Beginner
 - Tailwindcss: Intermediate
 - Git: Expert
-- Rust: Intermediate (i know, rust is weird but, just giving it a try)
