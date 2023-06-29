@@ -6,7 +6,7 @@ react tailwind dev with git skills 💀
 - Javascript: Expert
 - Typescript: Expert
 - HTML: Expert
-- CSS: Beginner
+- CSS: Intermediate
 - React: Expert
 - Svelte: Intermediate
 - Solidjs:  Beginner
